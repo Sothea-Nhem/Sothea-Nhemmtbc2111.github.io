@@ -1,0 +1,19 @@
+/* TEAM */
+Your title: Sothea Nhem
+Site: Sothea-Nhem.github.io/content.html
+Twitter: your Twitter username.
+Instagram:
+LinkedIn:
+Github:
+Facebook:
+Location: Chicago, IL, USA
+
+/* THANKS */
+Name: MicroTrain Technologies
+URL:  www.microtrain.net
+
+/* SITE */
+Last update: 2021/11/11
+Standards: HTML5, CSS3,..
+Components: Modernizr, jQuery, etc.
+Software: LAMP, MERN, MEAN, VSCode, etc.
